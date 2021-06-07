@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Samuel - `@zthng`
 - 👀 I’m interested in React and Frontend applications.
+- 🎓 Currently learning about microtransitions and animation in React.
 - 💼 Currently working on SmartQ - Smarthands Redesign.
 - 📫 You can find me on MS Teams!
 <!---
